@@ -1,5 +1,7 @@
 # 💸 App de Organização de Finanças Pessoais com Vibe Coding - O Agente 008
 
+Link de acesso: https://money-mate-mischief.lovable.app/
+
 - Meu **prompt final** (PRD) refinado no Gemini:
 
 '''markdown
